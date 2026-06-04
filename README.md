@@ -30,10 +30,12 @@ with category management and file-based data persistence.
 
 ## Project Structure
 
+```
 ExpenseTracker/
 ├── src/
 │   └── ExpenseTracker.java
 └── README.md
+```
 
 ## Key Concepts Used
 
